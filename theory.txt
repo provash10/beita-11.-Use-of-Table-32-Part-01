@@ -1,0 +1,11 @@
+ <!-- 32. Use of Table Part-01 -->
+<table width="600px"; border="2px"; cellpadding="5">
+OR Use CSS....
+
+    <table>
+        <tr>
+            <td> </td>
+            <td> </td>
+            <td> </td>
+        </tr>
+    </table>
